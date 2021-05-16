@@ -1,0 +1,93 @@
+{
+    "product":[{
+        "id":"c01",
+        "name": "canon 1300d",
+        "img":"/assets/camera01.jpg",
+        "description":"camera is very best",
+        "price":20000,
+        "quantity": 20,
+        "catagory": "camera"
+
+    },
+    {
+        "id":"c02",
+        "name": "canon 200d",
+        "img":"/assets/camera02.jpg",
+        "description":"camera is very best",
+        "price":50000,
+        "quantity": 20,
+        "catagory": "camera"
+
+    },
+    {
+        "id":"c03",
+        "name": "canon 50d",
+        "img":"/assets/camera03.jpg",
+        "description":"camera is very best",
+        "price":60000,
+        "quantity": 20,
+        "catagory": "camera"
+
+    },
+    {
+        "id":"c04",
+        "name": "canon 50d",
+        "img":"/assets/camera04.jpg",
+        "description":"camera is very best",
+        "price":60000,
+        "quantity": 20,
+        "catagory": "camera"
+
+    },
+    {
+        "id":"c05",
+        "name": "canon 50d",
+        "img":"/assets/camera05.jpg",
+        "description":"camera is very best",
+        "price":60000,
+        "quantity": 20,
+        "catagory": "camera"
+
+    },
+    {
+        "id":"c06",
+        "name": "canon 50d",
+        "img":"/assets/camera06.jpg",
+        "description":"camera is very best",
+        "price":60000,
+        "quantity": 20,
+        "catagory": "camera"
+
+    },
+    {
+        "id":"c07",
+        "name": "canon 50d",
+        "img":"/assets/camera08.jpg",
+        "description":"camera is very best",
+        "price":60000,
+        "quantity": 20,
+        "catagory": "camera"
+
+    },
+    {
+        "id":"c08",
+        "name": "canon 50d",
+        "img":"/assets/camera07.jpg",
+        "description":"camera is very best",
+        "price":60000,
+        "quantity": 20,
+        "catagory": "camera"
+
+    },
+    {
+        "id":"m01",
+        "name": "one plus",
+        "img":"/assets/mobile01.jpg",
+        "description":"camera is very best",
+        "price":30000,
+        "quantity": 20,
+        "catagory": "mobile"
+
+    }
+]
+}
