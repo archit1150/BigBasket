@@ -5,8 +5,6 @@
 export const environment = {
   production: false
 };
-export const qty = 1;
-export const deliveryCharge = 10;
 
 /*
  * For easier debugging in development mode, you can import the following file
